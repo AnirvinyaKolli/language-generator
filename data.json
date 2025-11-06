@@ -442,6 +442,42 @@
             "partOfSpeech": "adverb",
             "definition": "For the reason (that).",
             "word": "vajcebwetjin"
+        },
+        "had": {
+            "originalWord": "had",
+            "partOfSpeech": "verb",
+            "definition": "To possess, own.",
+            "word": "moajen"
+        },
+        "farm": {
+            "originalWord": "farm",
+            "partOfSpeech": "noun",
+            "definition": "A place where agricultural and similar activities take place, especially the growing of crops or the raising of livestock.",
+            "word": "loynyaken"
+        },
+        "that": {
+            "originalWord": "that",
+            "partOfSpeech": "noun",
+            "definition": "Something being indicated that is there; one of those.",
+            "word": "wixken"
+        },
+        "he": {
+            "originalWord": "he",
+            "partOfSpeech": "noun",
+            "definition": "The game of tag, or it, in which the player attempting to catch the others is called \"he\".",
+            "word": "jeddidjyjken"
+        },
+        "some": {
+            "originalWord": "some",
+            "partOfSpeech": "adverb",
+            "definition": "Of a measurement: approximately, roughly.",
+            "word": "dirpyhjin"
+        },
+        "pigs": {
+            "originalWord": "pigs",
+            "partOfSpeech": "noun",
+            "definition": "Any of several intelligent mammalian species of the genus Sus, having cloven hooves, bristles and a nose adapted for digging; especially the domesticated animal Sus scrofa.",
+            "word": "ifxidrken"
         }
     },
     "newToEnglish": {
@@ -518,6 +554,12 @@
         "olzjen": "see",
         "lexzyvjin": "below",
         "biipaejin": "however",
-        "vajcebwetjin": "because"
+        "vajcebwetjin": "because",
+        "moajen": "had",
+        "loynyaken": "farm",
+        "wixken": "that",
+        "jeddidjyjken": "he",
+        "dirpyhjin": "some",
+        "ifxidrken": "pigs"
     }
 }

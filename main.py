@@ -97,7 +97,7 @@ def convert(t, data_path):
         if words[i] in key:
             words[i] = key[words[i]]['word']
         else:
-            words[i] = '!'
+            words[i] = words[i]
 
     return " ".join(words)
 
@@ -112,7 +112,7 @@ def reverse(t, data_path):
         if words[i] in key:
             words[i] = key[words[i]]
         else:
-            words[i] = '!'
+            words[i] = words[i]
 
     return " ".join(words)
 
