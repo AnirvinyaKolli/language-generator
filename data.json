@@ -124,6 +124,324 @@
             "partOfSpeech": "interjection",
             "definition": "Used to profess respect for a deceased person, or for something that has been lost.",
             "word": "f"
+        },
+        "def": {
+            "originalWord": "def",
+            "partOfSpeech": "noun",
+            "definition": "Deficiency in amount or quality; a falling short; lack.",
+            "word": "parken"
+        },
+        "google": {
+            "originalWord": "google",
+            "partOfSpeech": "verb",
+            "definition": "To deliver googlies.",
+            "word": "jyojen"
+        },
+        "says": {
+            "originalWord": "says",
+            "partOfSpeech": "noun",
+            "definition": "A chance to speak; the right or power to influence or make a decision.",
+            "word": "josrixken"
+        },
+        "an": {
+            "originalWord": "an",
+            "partOfSpeech": "numeral",
+            "definition": "One",
+            "word": "an"
+        },
+        "asshole": {
+            "originalWord": "asshole",
+            "partOfSpeech": "noun",
+            "definition": "The anus.",
+            "word": "wonhewwivken"
+        },
+        "ever": {
+            "originalWord": "ever",
+            "partOfSpeech": "adjective",
+            "definition": "Occurring at any time, occurring even but once during a timespan.",
+            "word": "tofkin"
+        },
+        "since": {
+            "originalWord": "since",
+            "partOfSpeech": "adverb",
+            "definition": "From a specified time in the past.",
+            "word": "foyjyijin"
+        },
+        "wrote": {
+            "originalWord": "wrote",
+            "partOfSpeech": "verb",
+            "definition": "To form letters, words or symbols on a surface in order to communicate.",
+            "word": "coydeyxoajen"
+        },
+        "it": {
+            "originalWord": "it",
+            "partOfSpeech": "noun",
+            "definition": "One who is neither a he nor a she; a creature; a dehumanized being.",
+            "word": "zyrcisken"
+        },
+        "this": {
+            "originalWord": "this",
+            "partOfSpeech": "noun",
+            "definition": "Something being indicated that is here; one of these.",
+            "word": "ocrken"
+        },
+        "version": {
+            "originalWord": "version",
+            "partOfSpeech": "noun",
+            "definition": "A specific form or variation of something.",
+            "word": "xyyken"
+        },
+        "has": {
+            "originalWord": "has",
+            "partOfSpeech": "verb",
+            "definition": "To possess, own.",
+            "word": "juxhefjen"
+        },
+        "been": {
+            "originalWord": "been",
+            "partOfSpeech": "noun",
+            "definition": "A flying insect, of the clade Anthophila within the hymenopteran superfamily Apoidea, known for its organised societies (though only a minority have them), for collecting pollen and (in some species) producing wax and honey.",
+            "word": "doaluaken"
+        },
+        "most": {
+            "originalWord": "most",
+            "partOfSpeech": "noun",
+            "definition": "The greatest amount.",
+            "word": "fuaxaoken"
+        },
+        "often": {
+            "originalWord": "often",
+            "partOfSpeech": "adjective",
+            "definition": "Frequent.",
+            "word": "pawsyckin"
+        },
+        "reproduced": {
+            "originalWord": "reproduced",
+            "partOfSpeech": "verb",
+            "definition": "To produce an image or copy of.",
+            "word": "afcjen"
+        },
+        "notably": {
+            "originalWord": "notably",
+            "partOfSpeech": "adverb",
+            "definition": "(focus) As a pointed example; in a notable manner.",
+            "word": "ryijin"
+        },
+        "walls": {
+            "originalWord": "walls",
+            "partOfSpeech": "noun",
+            "definition": "A rampart of earth, stones etc. built up for defensive purposes.",
+            "word": "ywhaflken"
+        },
+        "of": {
+            "originalWord": "of",
+            "partOfSpeech": "preposition",
+            "definition": "Expressing distance or motion.",
+            "word": "of"
+        },
+        "memorial": {
+            "originalWord": "memorial",
+            "partOfSpeech": "noun",
+            "definition": "Memory; recollection.",
+            "word": "efrken"
+        },
+        "named": {
+            "originalWord": "named",
+            "partOfSpeech": "verb",
+            "definition": "(ditransitive) To give a name to.",
+            "word": "bylxusmojjen"
+        },
+        "after": {
+            "originalWord": "after",
+            "partOfSpeech": "adjective",
+            "definition": "Later; second (of two); next, following, subsequent",
+            "word": "luxtubbiskin"
+        },
+        "colonel": {
+            "originalWord": "colonel",
+            "partOfSpeech": "noun",
+            "definition": "A commissioned officer in an armed military organization, typically the highest rank before flag officer ranks (generals). It is generally found in armies, air forces or naval infantry (marines).",
+            "word": "boexauken"
+        },
+        "bliss": {
+            "originalWord": "bliss",
+            "partOfSpeech": "noun",
+            "definition": "Perfect happiness",
+            "word": "huaken"
+        },
+        "stepson": {
+            "originalWord": "stepson",
+            "partOfSpeech": "noun",
+            "definition": "The son of one's spouse, but not one's own child.",
+            "word": "nicbarhevken"
+        },
+        "historian": {
+            "originalWord": "historian",
+            "partOfSpeech": "noun",
+            "definition": "A writer of history; a chronicler; an annalist.",
+            "word": "cayken"
+        },
+        "and": {
+            "originalWord": "and",
+            "partOfSpeech": "noun",
+            "definition": "In rhythm, the second half of a divided beat.",
+            "word": "faffyxken"
+        },
+        "only": {
+            "originalWord": "only",
+            "partOfSpeech": "noun",
+            "definition": "An only child.",
+            "word": "atwicwudnken"
+        },
+        "one": {
+            "originalWord": "one",
+            "partOfSpeech": "noun",
+            "definition": "The digit or figure 1.",
+            "word": "myycayken"
+        },
+        "signed": {
+            "originalWord": "signed",
+            "partOfSpeech": "verb",
+            "definition": "To make a mark",
+            "word": "syasyajen"
+        },
+        "dated": {
+            "originalWord": "dated",
+            "partOfSpeech": "verb",
+            "definition": "To note the time or place of writing or executing; to express in an instrument the time of its execution.",
+            "word": "tyalaydoejen"
+        },
+        "by": {
+            "originalWord": "by",
+            "partOfSpeech": "noun",
+            "definition": "A flying insect, of the clade Anthophila within the hymenopteran superfamily Apoidea, known for its organised societies (though only a minority have them), for collecting pollen and (in some species) producing wax and honey.",
+            "word": "bisken"
+        },
+        "him": {
+            "originalWord": "him",
+            "partOfSpeech": "pronoun",
+            "definition": "Honorific alternative letter-case form of him, sometimes used when referring to God or another important figure who is understood from context.",
+            "word": "him"
+        },
+        "today": {
+            "originalWord": "today",
+            "partOfSpeech": "noun",
+            "definition": "A current day or date.",
+            "word": "ellobpken"
+        },
+        "display": {
+            "originalWord": "display",
+            "partOfSpeech": "noun",
+            "definition": "A show or spectacle.",
+            "word": "dahfetlirken"
+        },
+        "at": {
+            "originalWord": "at",
+            "partOfSpeech": "verb",
+            "definition": "To reply to or talk to someone, either online or face-to-face. (from the practice of targeting a message or reply to someone online by writing @name)",
+            "word": "adfjen"
+        },
+        "room": {
+            "originalWord": "room",
+            "partOfSpeech": "noun",
+            "definition": "Opportunity or scope (to do something).",
+            "word": "zeixyavaaken"
+        },
+        "white": {
+            "originalWord": "white",
+            "partOfSpeech": "noun",
+            "definition": "The color/colour of snow or milk; the colour of light containing equal amounts of all visible wavelengths.",
+            "word": "isziprken"
+        },
+        "house": {
+            "originalWord": "house",
+            "partOfSpeech": "noun",
+            "definition": "A structure built or serving as an abode of human beings.",
+            "word": "deaken"
+        },
+        "enter": {
+            "originalWord": "enter",
+            "partOfSpeech": "noun",
+            "definition": "The \"Enter\" key on a computer keyboard.",
+            "word": "baiken"
+        },
+        "text": {
+            "originalWord": "text",
+            "partOfSpeech": "noun",
+            "definition": "A writing consisting of multiple glyphs, characters, symbols or sentences.",
+            "word": "woiken"
+        },
+        "asked": {
+            "originalWord": "asked",
+            "partOfSpeech": "verb",
+            "definition": "To request (information, or an answer to a question).",
+            "word": "tyizoojen"
+        },
+        "president": {
+            "originalWord": "president",
+            "partOfSpeech": "noun",
+            "definition": "An act in the past which may be used as an example to help decide the outcome of similar instances in the future.",
+            "word": "huhxyvken"
+        },
+        "a": {
+            "originalWord": "a",
+            "partOfSpeech": "noun",
+            "definition": "The name of the Latin script letter A/a.",
+            "word": "suhken"
+        },
+        "copy": {
+            "originalWord": "copy",
+            "partOfSpeech": "noun",
+            "definition": "The result of copying; an identical duplicate of an original.",
+            "word": "zelken"
+        },
+        "use": {
+            "originalWord": "use",
+            "partOfSpeech": "noun",
+            "definition": "The act of using.",
+            "word": "zeadouken"
+        },
+        "as": {
+            "originalWord": "as",
+            "partOfSpeech": "adverb",
+            "definition": "To such an extent or degree; to the same extent or degree.",
+            "word": "ozljin"
+        },
+        "fundraiser": {
+            "originalWord": "fundraiser",
+            "partOfSpeech": "noun",
+            "definition": "An event undertaken to get money by voluntary contributions for a particular activity, such as equipment for extracurricular sports programs, or to defray laboratory costs (salaries) for research of a cure for a particular disease.",
+            "word": "ulcojpejsken"
+        },
+        "soldiers": {
+            "originalWord": "soldiers",
+            "partOfSpeech": "noun",
+            "definition": "A member of an army, of any rank.",
+            "word": "jalpyprisken"
+        },
+        "see": {
+            "originalWord": "see",
+            "partOfSpeech": "verb",
+            "definition": "(stative) To perceive or detect with the eyes, or as if by sight.",
+            "word": "olzjen"
+        },
+        "below": {
+            "originalWord": "below",
+            "partOfSpeech": "adverb",
+            "definition": "In a lower place.",
+            "word": "lexzyvjin"
+        },
+        "however": {
+            "originalWord": "however",
+            "partOfSpeech": "adverb",
+            "definition": "Nevertheless; yet, still; in spite of (that).",
+            "word": "biipaejin"
+        },
+        "because": {
+            "originalWord": "because",
+            "partOfSpeech": "adverb",
+            "definition": "For the reason (that).",
+            "word": "vajcebwetjin"
         }
     },
     "newToEnglish": {
@@ -147,6 +465,59 @@
         "hysracken": "installation",
         "jaeryusoeken": "purchase",
         "yrbadzjen": "required",
-        "f": "f"
+        "f": "f",
+        "parken": "def",
+        "jyojen": "google",
+        "josrixken": "says",
+        "an": "an",
+        "wonhewwivken": "asshole",
+        "tofkin": "ever",
+        "foyjyijin": "since",
+        "coydeyxoajen": "wrote",
+        "zyrcisken": "it",
+        "ocrken": "this",
+        "xyyken": "version",
+        "juxhefjen": "has",
+        "doaluaken": "been",
+        "fuaxaoken": "most",
+        "pawsyckin": "often",
+        "afcjen": "reproduced",
+        "ryijin": "notably",
+        "ywhaflken": "walls",
+        "of": "of",
+        "efrken": "memorial",
+        "bylxusmojjen": "named",
+        "luxtubbiskin": "after",
+        "boexauken": "colonel",
+        "huaken": "bliss",
+        "nicbarhevken": "stepson",
+        "cayken": "historian",
+        "faffyxken": "and",
+        "atwicwudnken": "only",
+        "myycayken": "one",
+        "syasyajen": "signed",
+        "tyalaydoejen": "dated",
+        "bisken": "by",
+        "him": "him",
+        "ellobpken": "today",
+        "dahfetlirken": "display",
+        "adfjen": "at",
+        "zeixyavaaken": "room",
+        "isziprken": "white",
+        "deaken": "house",
+        "baiken": "enter",
+        "woiken": "text",
+        "tyizoojen": "asked",
+        "huhxyvken": "president",
+        "suhken": "a",
+        "zelken": "copy",
+        "zeadouken": "use",
+        "ozljin": "as",
+        "ulcojpejsken": "fundraiser",
+        "jalpyprisken": "soldiers",
+        "olzjen": "see",
+        "lexzyvjin": "below",
+        "biipaejin": "however",
+        "vajcebwetjin": "because"
     }
 }

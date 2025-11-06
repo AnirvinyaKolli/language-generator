@@ -1,6 +1,5 @@
 import random
 import string
-
 import requests
 import json
 
@@ -58,7 +57,7 @@ def add_to_data(add_word, data_path):
     key = data['newToEnglish']
 
     if add_word in words:
-        return words[add_word]['word']
+        return
 
     new_word_data = get_word_data(add_word)
 
@@ -68,24 +67,45 @@ def add_to_data(add_word, data_path):
     with open(data_path, 'w') as file:
         json.dump(data, file , indent=4)
 
-    if add_word in words:
-        return words[add_word]['word']
-    else:
-        return '!'
+    
+def add_to_data_bulk(add_words, data_path , data):
 
-def convert(text, data_path):
-    t = clean_string(text)
+    words = data['englishToNew']
+    key = data['newToEnglish']
+    for add_word in add_words:
+        if add_word in words:
+            continue
+        new_word_data = get_word_data(add_word)
+        words[new_word_data["originalWord"]] = new_word_data
+        key[new_word_data["word"]] = new_word_data["originalWord"]
+
+    with open(data_path, 'w') as file:
+        json.dump(data, file , indent=4)
+
+
+def convert(t, data_path):
+    with open(data_path, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+        key = data['englishToNew']
+        
+    t = clean_string(t)
     words = t.split(" ")
+    print(words)
+    add_to_data_bulk(words, data_path, data)
+    
     for i in range(0, len(words)):
-        words[i] = add_to_data(words[i], data_path).lower()
+        if words[i] in key:
+            words[i] = key[words[i]]['word']
+        else:
+            words[i] = '!'
 
     return " ".join(words)
 
-def reverse(text, data_path):
+def reverse(t, data_path):
     with open(data_path, 'r', encoding='utf-8') as f:
         data = json.load(f)
         key = data['newToEnglish']
-    t = clean_string(text)
+    t = clean_string(t)
     words = t.split(" ")
     print(words)
     for i in range(0, len(words)):
@@ -96,19 +116,17 @@ def reverse(text, data_path):
 
     return " ".join(words)
 
-def clean_string(text):
-    t = text.lower()
+def clean_string(t):
+    t = t.lower()
     translator = str.maketrans('', '', string.punctuation)
     t = t.translate(translator)
     return t
 
 if __name__ == '__main__':
-    data_path = 'data.json'
-    # while True:
-    #     text = input("Enter a word: ")
-    #     add_to_data(text, data_path)
+    dp = 'data.json'
+
     text = input("Enter the text : ").strip('\n')
-    print (convert(text, data_path), end = '')
+    print (convert(text, dp), end = '')
     print('\n')
     text = input("Enter the text : ").strip('\n')
-    print(reverse(text, data_path))
+    print(reverse(text, dp))
