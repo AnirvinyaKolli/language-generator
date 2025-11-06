@@ -1,0 +1,152 @@
+{
+    "englishToNew": {
+        "web": {
+            "originalWord": "web",
+            "partOfSpeech": "proper noun",
+            "definition": "The World Wide Web.",
+            "word": "web"
+        },
+        "welcome": {
+            "originalWord": "welcome",
+            "partOfSpeech": "noun",
+            "definition": "The act of greeting someone\u2019s arrival, especially by saying \"Welcome!\"; reception.",
+            "word": "lioken"
+        },
+        "to": {
+            "originalWord": "to",
+            "partOfSpeech": "adverb",
+            "definition": "Toward a closed, touching or engaging position.",
+            "word": "couriebuejin"
+        },
+        "word": {
+            "originalWord": "word",
+            "partOfSpeech": "noun",
+            "definition": "The smallest unit of language that has a particular meaning and can be expressed by itself; the smallest discrete, meaningful unit of language. (contrast morpheme.)",
+            "word": "ofpednippken"
+        },
+        "Nonsense entered": {
+            "originalWord": "Nonsense entered",
+            "partOfSpeech": "N/A",
+            "word": "N/A"
+        },
+        "free": {
+            "originalWord": "free",
+            "partOfSpeech": "noun",
+            "definition": "Free transfer",
+            "word": "avfodjejnken"
+        },
+        "on": {
+            "originalWord": "on",
+            "partOfSpeech": "verb",
+            "definition": "To switch on",
+            "word": "ijzafsjen"
+        },
+        "the": {
+            "originalWord": "the",
+            "partOfSpeech": "adverb",
+            "definition": "With a comparative or with more and a verb phrase, establishes a correlation with one or more other such comparatives.",
+            "word": "tufsarjin"
+        },
+        "sign": {
+            "originalWord": "sign",
+            "partOfSpeech": "noun",
+            "definition": "(sometimes also used uncountably) A visible indication.",
+            "word": "etfken"
+        },
+        "in": {
+            "originalWord": "in",
+            "partOfSpeech": "noun",
+            "definition": "A position of power or influence, or a way to get it.",
+            "word": "yndihxypbken"
+        },
+        "or": {
+            "originalWord": "or",
+            "partOfSpeech": "conjunction",
+            "definition": "Connects at least two alternative words, phrases, clauses, sentences, etc. each of which could make a passage true. In English, this is the \"inclusive or.\" The \"exclusive or\" is formed by \"either [...] or\".",
+            "word": "or"
+        },
+        "up": {
+            "originalWord": "up",
+            "partOfSpeech": "noun",
+            "definition": "The direction opposed to the pull of gravity.",
+            "word": "tivpifsosken"
+        },
+        "start": {
+            "originalWord": "start",
+            "partOfSpeech": "noun",
+            "definition": "The beginning of an activity.",
+            "word": "hyoleeken"
+        },
+        "using": {
+            "originalWord": "using",
+            "partOfSpeech": "verb",
+            "definition": "To utilize or employ.",
+            "word": "iptoxnozxjen"
+        },
+        "right": {
+            "originalWord": "right",
+            "partOfSpeech": "adjective",
+            "definition": "Straight, not bent.",
+            "word": "vetlincowkin"
+        },
+        "away": {
+            "originalWord": "away",
+            "partOfSpeech": "verb",
+            "definition": "To depart; to go to another place.",
+            "word": "vyijyyhoojen"
+        },
+        "no": {
+            "originalWord": "no",
+            "partOfSpeech": "noun",
+            "definition": "A negating expression; an answer that shows disagreement or disapproval",
+            "word": "daifyepoeken"
+        },
+        "installation": {
+            "originalWord": "installation",
+            "partOfSpeech": "noun",
+            "definition": "An act of installing.",
+            "word": "hysracken"
+        },
+        "purchase": {
+            "originalWord": "purchase",
+            "partOfSpeech": "noun",
+            "definition": "The acquisition of title to, or property in, anything for a price; buying for money or its equivalent.",
+            "word": "jaeryusoeken"
+        },
+        "required": {
+            "originalWord": "required",
+            "partOfSpeech": "verb",
+            "definition": "To ask (someone) for something; to request.",
+            "word": "yrbadzjen"
+        },
+        "f": {
+            "originalWord": "f",
+            "partOfSpeech": "interjection",
+            "definition": "Used to profess respect for a deceased person, or for something that has been lost.",
+            "word": "f"
+        }
+    },
+    "newToEnglish": {
+        "web": "web",
+        "lioken": "welcome",
+        "couriebuejin": "to",
+        "ofpednippken": "word",
+        "N/A": "Nonsense entered",
+        "avfodjejnken": "free",
+        "ijzafsjen": "on",
+        "tufsarjin": "the",
+        "etfken": "sign",
+        "yndihxypbken": "in",
+        "or": "or",
+        "tivpifsosken": "up",
+        "hyoleeken": "start",
+        "iptoxnozxjen": "using",
+        "vetlincowkin": "right",
+        "vyijyyhoojen": "away",
+        "daifyepoeken": "no",
+        "hysracken": "installation",
+        "jaeryusoeken": "purchase",
+        "yrbadzjen": "required",
+        "f": "f"
+    }
+}

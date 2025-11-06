@@ -1,0 +1,22 @@
+{
+  "suffixes": {
+    "noun": "ken",
+    "verb": "jen",
+    "adjective": "kin",
+    "adverb": "jin"
+  },
+  "root": [
+    "cvc",
+    "cvv",
+    "vcc"
+  ],
+  "consonants": [
+    "b", "c", "d", "f", "h",
+    "j", "l", "m", "n", "p",
+    "r", "s", "t", "v", "w",
+    "x", "z"
+  ],
+  "vowels": [
+    "a", "e", "i", "o", "u", "y"
+  ]
+}
