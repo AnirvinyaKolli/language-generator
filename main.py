@@ -38,8 +38,6 @@ def get_word_data(target_word):
     elif response.status_code == 429:
         time.sleep(0.3)
     else:
-        print(target_word)
-        print(response.status_code)
         return {
             "originalWord": "Nonsense entered",
             "partOfSpeech": "N/A",
@@ -55,7 +53,7 @@ def get_word_data(target_word):
         "originalWord": og_word,
         "partOfSpeech": part_of_speech,
         "definition": definition,
-        "word": create_word(og_word, part_of_speech, "word_rules.json")
+        "word": create_word(og_word, part_of_speech, "saved_data/word_rules.json")
     }
 
 def add_to_data(add_word, data_path):
@@ -111,9 +109,7 @@ def convert(t, data_path):
     for i in range(0, len(words)):
         if words[i] in key:
             words[i] = key[words[i]]['word']
-        else:
-            pass
-            # print(words[i])
+
 
     return " ".join(words)
 
@@ -123,7 +119,6 @@ def reverse(t, data_path):
         key = data['newToEnglish']
     t = clean_string(t)
     words = t.split(" ")
-    print(words)
     for i in range(0, len(words)):
         if words[i] in key:
             words[i] = key[words[i]]
@@ -139,7 +134,7 @@ def clean_string(t):
     return t
 
 if __name__ == '__main__':
-    dp = 'data.json'
+    dp = 'saved_data/data.json'
     text = input("Enter the text : ").strip('\n')
     start = time.time()
     print (convert(text, dp))
