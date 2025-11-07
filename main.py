@@ -135,8 +135,10 @@ def clean_string(t):
 
 if __name__ == '__main__':
     dp = 'saved_data/data.json'
-    text = input("Enter the text : ").strip('\n')
-    start = time.time()
-    print (convert(text, dp))
-    end = time.time()
-    print(f"Execution time: {end - start:.4f} seconds")
+    # text = input("Enter the text : ").strip('\n')
+    # start = time.time()
+    # print (convert(text, dp))
+    # end = time.time()
+    # print(f"Execution time: {end - start:.4f} seconds")
+    text = input("Enter the text: ")
+    print(reverse(text, dp))
