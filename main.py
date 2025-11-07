@@ -2,12 +2,17 @@ import random
 import string
 import requests
 import json
+import time
+
 
 def create_word(word, part_of_speech, rules_path):
-    if part_of_speech not in ['noun', 'adjective', 'adverb', 'verb']:
-        return word
+
     with open(rules_path, 'r', encoding='utf-8') as f:
         rules = json.load(f)
+
+    if part_of_speech not in rules['suffixes']:
+        print(part_of_speech)
+        return word
 
     pattern  =  random.choice(rules["root"])
 
@@ -30,7 +35,11 @@ def get_word_data(target_word):
 
     if response.status_code == 200:
         data = response.json()[0]
+    elif response.status_code == 429:
+        time.sleep(0.3)
     else:
+        print(target_word)
+        print(response.status_code)
         return {
             "originalWord": "Nonsense entered",
             "partOfSpeech": "N/A",
@@ -70,8 +79,10 @@ def add_to_data(add_word, data_path):
     
 def add_to_data_bulk(add_words, data_path , data):
 
+    print (add_words)
     words = data['englishToNew']
     key = data['newToEnglish']
+
     for add_word in add_words:
         if add_word in words:
             continue
@@ -90,14 +101,19 @@ def convert(t, data_path):
         
     t = clean_string(t)
     words = t.split(" ")
-    print(words)
+
     add_to_data_bulk(words, data_path, data)
+
+    with open(data_path, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+        key = data['englishToNew']
     
     for i in range(0, len(words)):
         if words[i] in key:
             words[i] = key[words[i]]['word']
         else:
-            words[i] = words[i]
+            pass
+            # print(words[i])
 
     return " ".join(words)
 
@@ -118,15 +134,14 @@ def reverse(t, data_path):
 
 def clean_string(t):
     t = t.lower()
-    translator = str.maketrans('', '', string.punctuation)
+    translator = str.maketrans('', '', string.punctuation + string.digits)
     t = t.translate(translator)
     return t
 
 if __name__ == '__main__':
     dp = 'data.json'
-
     text = input("Enter the text : ").strip('\n')
-    print (convert(text, dp), end = '')
-    print('\n')
-    text = input("Enter the text : ").strip('\n')
-    print(reverse(text, dp))
+    start = time.time()
+    print (convert(text, dp))
+    end = time.time()
+    print(f"Execution time: {end - start:.4f} seconds")

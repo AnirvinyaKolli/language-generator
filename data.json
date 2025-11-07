@@ -1,565 +1,327 @@
 {
     "englishToNew": {
-        "web": {
-            "originalWord": "web",
-            "partOfSpeech": "proper noun",
-            "definition": "The World Wide Web.",
-            "word": "web"
-        },
-        "welcome": {
-            "originalWord": "welcome",
-            "partOfSpeech": "noun",
-            "definition": "The act of greeting someone\u2019s arrival, especially by saying \"Welcome!\"; reception.",
-            "word": "lioken"
-        },
-        "to": {
-            "originalWord": "to",
+        "the": {
+            "originalWord": "the",
             "partOfSpeech": "adverb",
-            "definition": "Toward a closed, touching or engaging position.",
-            "word": "couriebuejin"
+            "definition": "With a comparative or with more and a verb phrase, establishes a correlation with one or more other such comparatives.",
+            "word": "jaamiymyijin"
         },
-        "word": {
-            "originalWord": "word",
+        "sun": {
+            "originalWord": "sun",
             "partOfSpeech": "noun",
-            "definition": "The smallest unit of language that has a particular meaning and can be expressed by itself; the smallest discrete, meaningful unit of language. (contrast morpheme.)",
-            "word": "ofpednippken"
+            "definition": "A star, especially when seen as the centre of any single solar system.",
+            "word": "deediaken"
+        },
+        "dipped": {
+            "originalWord": "dipped",
+            "partOfSpeech": "verb",
+            "definition": "To lower into a liquid.",
+            "word": "papjen"
+        },
+        "below": {
+            "originalWord": "below",
+            "partOfSpeech": "adverb",
+            "definition": "In a lower place.",
+            "word": "pyxjehtemjin"
+        },
+        "horizon": {
+            "originalWord": "horizon",
+            "partOfSpeech": "noun",
+            "definition": "The visible horizontal line or point (in all directions) that appears to connect the Earth to the sky.",
+            "word": "maaken"
+        },
+        "as": {
+            "originalWord": "as",
+            "partOfSpeech": "adverb",
+            "definition": "To such an extent or degree; to the same extent or degree.",
+            "word": "macfehrytjin"
+        },
+        "wind": {
+            "originalWord": "wind",
+            "partOfSpeech": "noun",
+            "definition": "Real or perceived movement of atmospheric air usually caused by convection or differences in air pressure.",
+            "word": "tiaken"
+        },
+        "carried": {
+            "originalWord": "carried",
+            "partOfSpeech": "verb",
+            "definition": "To lift (something) and take it to another place; to transport (something) by lifting.",
+            "word": "rewcojjen"
+        },
+        "scent": {
+            "originalWord": "scent",
+            "partOfSpeech": "noun",
+            "definition": "A distinctive odour or smell.",
+            "word": "yscyzvken"
+        },
+        "of": {
+            "originalWord": "of",
+            "partOfSpeech": "preposition",
+            "definition": "Expressing distance or motion.",
+            "word": "juypuelen"
+        },
+        "pine": {
+            "originalWord": "pine",
+            "partOfSpeech": "noun",
+            "definition": "Any coniferous tree of the genus Pinus.",
+            "word": "zesken"
+        },
+        "through": {
+            "originalWord": "through",
+            "partOfSpeech": "noun",
+            "definition": "A large slab of stone laid in a dry-stone wall from one side to the other; a perpend.",
+            "word": "obfken"
+        },
+        "quiet": {
+            "originalWord": "quiet",
+            "partOfSpeech": "noun",
+            "definition": "The absence of sound; quietness.",
+            "word": "cypfecken"
+        },
+        "valley": {
+            "originalWord": "valley",
+            "partOfSpeech": "noun",
+            "definition": "An elongated depression between hills or mountains, often with a river flowing through it.",
+            "word": "zitwuzpixken"
+        },
+        "a": {
+            "originalWord": "a",
+            "partOfSpeech": "noun",
+            "definition": "The name of the Latin script letter A/a.",
+            "word": "ripwiznyhken"
+        },
+        "fox": {
+            "originalWord": "fox",
+            "partOfSpeech": "noun",
+            "definition": "A red fox, small carnivore (Vulpes vulpes), related to dogs and wolves, with red or silver fur and a bushy tail.",
+            "word": "rocfittehken"
+        },
+        "darted": {
+            "originalWord": "darted",
+            "partOfSpeech": "verb",
+            "definition": "To throw with a sudden effort or thrust; to hurl or launch.",
+            "word": "otruwsjen"
+        },
+        "between": {
+            "originalWord": "between",
+            "partOfSpeech": "noun",
+            "definition": "A kind of needle, shorter than a sharp, with a small rounded eye, used for making fine stitches on heavy fabrics.",
+            "word": "vojken"
+        },
+        "trees": {
+            "originalWord": "trees",
+            "partOfSpeech": "noun",
+            "definition": "Fast growing function based on Kruskal's tree theorem.",
+            "word": "teiduyken"
+        },
+        "its": {
+            "originalWord": "its",
+            "partOfSpeech": "noun",
+            "definition": "One who is neither a he nor a she; a creature; a dehumanized being.",
+            "word": "virwybken"
+        },
+        "fur": {
+            "originalWord": "fur",
+            "partOfSpeech": "noun",
+            "definition": "The hairy coat of various mammal species, especially when fine, soft and thick.",
+            "word": "neysouwaiken"
+        },
+        "catching": {
+            "originalWord": "catching",
+            "partOfSpeech": "verb",
+            "definition": "(heading) To capture, overtake.",
+            "word": "urcydxjen"
+        },
+        "last": {
+            "originalWord": "last",
+            "partOfSpeech": "adjective",
+            "definition": "Final, ultimate, coming after all others of its kind.",
+            "word": "zesdidkin"
+        },
+        "golden": {
+            "originalWord": "golden",
+            "partOfSpeech": "noun",
+            "definition": "Kyphosus vaigiensis, a fish found in southeast Asia.",
+            "word": "nyuken"
+        },
+        "rays": {
+            "originalWord": "rays",
+            "partOfSpeech": "noun",
+            "definition": "A beam of light or radiation.",
+            "word": "ybluwfken"
         },
         "Nonsense entered": {
             "originalWord": "Nonsense entered",
             "partOfSpeech": "N/A",
             "word": "N/A"
         },
-        "free": {
-            "originalWord": "free",
+        "daylight": {
+            "originalWord": "daylight",
             "partOfSpeech": "noun",
-            "definition": "Free transfer",
-            "word": "avfodjejnken"
+            "definition": "The light from the Sun, as opposed to that from any other source.",
+            "word": "synzutken"
         },
-        "on": {
-            "originalWord": "on",
-            "partOfSpeech": "verb",
-            "definition": "To switch on",
-            "word": "ijzafsjen"
-        },
-        "the": {
-            "originalWord": "the",
-            "partOfSpeech": "adverb",
-            "definition": "With a comparative or with more and a verb phrase, establishes a correlation with one or more other such comparatives.",
-            "word": "tufsarjin"
-        },
-        "sign": {
-            "originalWord": "sign",
-            "partOfSpeech": "noun",
-            "definition": "(sometimes also used uncountably) A visible indication.",
-            "word": "etfken"
-        },
-        "in": {
-            "originalWord": "in",
-            "partOfSpeech": "noun",
-            "definition": "A position of power or influence, or a way to get it.",
-            "word": "yndihxypbken"
-        },
-        "or": {
-            "originalWord": "or",
-            "partOfSpeech": "conjunction",
-            "definition": "Connects at least two alternative words, phrases, clauses, sentences, etc. each of which could make a passage true. In English, this is the \"inclusive or.\" The \"exclusive or\" is formed by \"either [...] or\".",
-            "word": "or"
-        },
-        "up": {
-            "originalWord": "up",
-            "partOfSpeech": "noun",
-            "definition": "The direction opposed to the pull of gravity.",
-            "word": "tivpifsosken"
-        },
-        "start": {
-            "originalWord": "start",
-            "partOfSpeech": "noun",
-            "definition": "The beginning of an activity.",
-            "word": "hyoleeken"
-        },
-        "using": {
-            "originalWord": "using",
-            "partOfSpeech": "verb",
-            "definition": "To utilize or employ.",
-            "word": "iptoxnozxjen"
-        },
-        "right": {
-            "originalWord": "right",
+        "nearby": {
+            "originalWord": "nearby",
             "partOfSpeech": "adjective",
-            "definition": "Straight, not bent.",
-            "word": "vetlincowkin"
+            "definition": "Adjacent, near, close by",
+            "word": "cyvkin"
         },
-        "away": {
-            "originalWord": "away",
+        "stream": {
+            "originalWord": "stream",
+            "partOfSpeech": "noun",
+            "definition": "A small river; a large creek; a body of moving water confined by banks.",
+            "word": "niewyiken"
+        },
+        "whispered": {
+            "originalWord": "whispered",
             "partOfSpeech": "verb",
-            "definition": "To depart; to go to another place.",
-            "word": "vyijyyhoojen"
+            "definition": "To speak softly, or under the breath, so as to be heard only by one near at hand; to utter words without sonant breath; to talk without that vibration in the larynx which gives sonorous, or vocal, sound.",
+            "word": "xaoboijen"
         },
-        "no": {
-            "originalWord": "no",
+        "over": {
+            "originalWord": "over",
             "partOfSpeech": "noun",
-            "definition": "A negating expression; an answer that shows disagreement or disapproval",
-            "word": "daifyepoeken"
+            "definition": "A set of six legal balls bowled.",
+            "word": "hyiken"
         },
-        "installation": {
-            "originalWord": "installation",
+        "smooth": {
+            "originalWord": "smooth",
             "partOfSpeech": "noun",
-            "definition": "An act of installing.",
-            "word": "hysracken"
+            "definition": "Something that is smooth, or that goes smoothly and easily.",
+            "word": "duexyitueken"
         },
-        "purchase": {
-            "originalWord": "purchase",
+        "stones": {
+            "originalWord": "stones",
             "partOfSpeech": "noun",
-            "definition": "The acquisition of title to, or property in, anything for a price; buying for money or its equivalent.",
-            "word": "jaeryusoeken"
+            "definition": "A hard earthen substance that can form large rocks.",
+            "word": "ynfadvymxken"
         },
-        "required": {
-            "originalWord": "required",
+        "weaving": {
+            "originalWord": "weaving",
             "partOfSpeech": "verb",
-            "definition": "To ask (someone) for something; to request.",
-            "word": "yrbadzjen"
+            "definition": "To form something by passing lengths or strands of material over and under one another.",
+            "word": "fuzjuhjen"
         },
-        "f": {
-            "originalWord": "f",
-            "partOfSpeech": "interjection",
-            "definition": "Used to profess respect for a deceased person, or for something that has been lost.",
-            "word": "f"
-        },
-        "def": {
-            "originalWord": "def",
+        "way": {
+            "originalWord": "way",
             "partOfSpeech": "noun",
-            "definition": "Deficiency in amount or quality; a falling short; lack.",
-            "word": "parken"
+            "definition": "(heading) To do with a place or places.",
+            "word": "fiuken"
         },
-        "google": {
-            "originalWord": "google",
-            "partOfSpeech": "verb",
-            "definition": "To deliver googlies.",
-            "word": "jyojen"
-        },
-        "says": {
-            "originalWord": "says",
-            "partOfSpeech": "noun",
-            "definition": "A chance to speak; the right or power to influence or make a decision.",
-            "word": "josrixken"
-        },
-        "an": {
-            "originalWord": "an",
-            "partOfSpeech": "numeral",
-            "definition": "One",
-            "word": "an"
-        },
-        "asshole": {
-            "originalWord": "asshole",
-            "partOfSpeech": "noun",
-            "definition": "The anus.",
-            "word": "wonhewwivken"
-        },
-        "ever": {
-            "originalWord": "ever",
+        "toward": {
+            "originalWord": "toward",
             "partOfSpeech": "adjective",
-            "definition": "Occurring at any time, occurring even but once during a timespan.",
-            "word": "tofkin"
+            "definition": "Yielding, pliant; docile; ready or apt to learn; not froward.",
+            "word": "fauruiziakin"
         },
-        "since": {
-            "originalWord": "since",
-            "partOfSpeech": "adverb",
-            "definition": "From a specified time in the past.",
-            "word": "foyjyijin"
-        },
-        "wrote": {
-            "originalWord": "wrote",
-            "partOfSpeech": "verb",
-            "definition": "To form letters, words or symbols on a surface in order to communicate.",
-            "word": "coydeyxoajen"
-        },
-        "it": {
-            "originalWord": "it",
+        "lake": {
+            "originalWord": "lake",
             "partOfSpeech": "noun",
-            "definition": "One who is neither a he nor a she; a creature; a dehumanized being.",
-            "word": "zyrcisken"
+            "definition": "A small stream of running water; a channel for water; a drain.",
+            "word": "heosiizuaken"
         },
-        "this": {
-            "originalWord": "this",
-            "partOfSpeech": "noun",
-            "definition": "Something being indicated that is here; one of these.",
-            "word": "ocrken"
-        },
-        "version": {
-            "originalWord": "version",
-            "partOfSpeech": "noun",
-            "definition": "A specific form or variation of something.",
-            "word": "xyyken"
-        },
-        "has": {
-            "originalWord": "has",
-            "partOfSpeech": "verb",
-            "definition": "To possess, own.",
-            "word": "juxhefjen"
-        },
-        "been": {
-            "originalWord": "been",
-            "partOfSpeech": "noun",
-            "definition": "A flying insect, of the clade Anthophila within the hymenopteran superfamily Apoidea, known for its organised societies (though only a minority have them), for collecting pollen and (in some species) producing wax and honey.",
-            "word": "doaluaken"
-        },
-        "most": {
-            "originalWord": "most",
-            "partOfSpeech": "noun",
-            "definition": "The greatest amount.",
-            "word": "fuaxaoken"
-        },
-        "often": {
-            "originalWord": "often",
-            "partOfSpeech": "adjective",
-            "definition": "Frequent.",
-            "word": "pawsyckin"
-        },
-        "reproduced": {
-            "originalWord": "reproduced",
-            "partOfSpeech": "verb",
-            "definition": "To produce an image or copy of.",
-            "word": "afcjen"
-        },
-        "notably": {
-            "originalWord": "notably",
-            "partOfSpeech": "adverb",
-            "definition": "(focus) As a pointed example; in a notable manner.",
-            "word": "ryijin"
-        },
-        "walls": {
-            "originalWord": "walls",
-            "partOfSpeech": "noun",
-            "definition": "A rampart of earth, stones etc. built up for defensive purposes.",
-            "word": "ywhaflken"
-        },
-        "of": {
-            "originalWord": "of",
-            "partOfSpeech": "preposition",
-            "definition": "Expressing distance or motion.",
-            "word": "of"
-        },
-        "memorial": {
-            "originalWord": "memorial",
-            "partOfSpeech": "noun",
-            "definition": "Memory; recollection.",
-            "word": "efrken"
-        },
-        "named": {
-            "originalWord": "named",
-            "partOfSpeech": "verb",
-            "definition": "(ditransitive) To give a name to.",
-            "word": "bylxusmojjen"
-        },
-        "after": {
-            "originalWord": "after",
-            "partOfSpeech": "adjective",
-            "definition": "Later; second (of two); next, following, subsequent",
-            "word": "luxtubbiskin"
-        },
-        "colonel": {
-            "originalWord": "colonel",
-            "partOfSpeech": "noun",
-            "definition": "A commissioned officer in an armed military organization, typically the highest rank before flag officer ranks (generals). It is generally found in armies, air forces or naval infantry (marines).",
-            "word": "boexauken"
-        },
-        "bliss": {
-            "originalWord": "bliss",
-            "partOfSpeech": "noun",
-            "definition": "Perfect happiness",
-            "word": "huaken"
-        },
-        "stepson": {
-            "originalWord": "stepson",
-            "partOfSpeech": "noun",
-            "definition": "The son of one's spouse, but not one's own child.",
-            "word": "nicbarhevken"
-        },
-        "historian": {
-            "originalWord": "historian",
-            "partOfSpeech": "noun",
-            "definition": "A writer of history; a chronicler; an annalist.",
-            "word": "cayken"
-        },
-        "and": {
-            "originalWord": "and",
-            "partOfSpeech": "noun",
-            "definition": "In rhythm, the second half of a divided beat.",
-            "word": "faffyxken"
-        },
-        "only": {
-            "originalWord": "only",
-            "partOfSpeech": "noun",
-            "definition": "An only child.",
-            "word": "atwicwudnken"
-        },
-        "one": {
-            "originalWord": "one",
-            "partOfSpeech": "noun",
-            "definition": "The digit or figure 1.",
-            "word": "myycayken"
-        },
-        "signed": {
-            "originalWord": "signed",
-            "partOfSpeech": "verb",
-            "definition": "To make a mark",
-            "word": "syasyajen"
-        },
-        "dated": {
-            "originalWord": "dated",
-            "partOfSpeech": "verb",
-            "definition": "To note the time or place of writing or executing; to express in an instrument the time of its execution.",
-            "word": "tyalaydoejen"
-        },
-        "by": {
-            "originalWord": "by",
-            "partOfSpeech": "noun",
-            "definition": "A flying insect, of the clade Anthophila within the hymenopteran superfamily Apoidea, known for its organised societies (though only a minority have them), for collecting pollen and (in some species) producing wax and honey.",
-            "word": "bisken"
-        },
-        "him": {
-            "originalWord": "him",
+        "everything": {
+            "originalWord": "everything",
             "partOfSpeech": "pronoun",
-            "definition": "Honorific alternative letter-case form of him, sometimes used when referring to God or another important figure who is understood from context.",
-            "word": "him"
+            "definition": "All the things under discussion.",
+            "word": "xelpen"
         },
-        "today": {
-            "originalWord": "today",
+        "felt": {
+            "originalWord": "felt",
             "partOfSpeech": "noun",
-            "definition": "A current day or date.",
-            "word": "ellobpken"
+            "definition": "A cloth or stuff made of matted fibres of wool, or wool and fur, fulled or wrought into a compact substance by rolling and pressure, with lees or size, without spinning or weaving.",
+            "word": "fofken"
         },
-        "display": {
-            "originalWord": "display",
+        "calm": {
+            "originalWord": "calm",
             "partOfSpeech": "noun",
-            "definition": "A show or spectacle.",
-            "word": "dahfetlirken"
+            "definition": "(in a person) The state of being calm; peacefulness; absence of worry, anger, fear or other strong negative emotion.",
+            "word": "yjtyhrken"
         },
-        "at": {
-            "originalWord": "at",
-            "partOfSpeech": "verb",
-            "definition": "To reply to or talk to someone, either online or face-to-face. (from the practice of targeting a message or reply to someone online by writing @name)",
-            "word": "adfjen"
-        },
-        "room": {
-            "originalWord": "room",
+        "if": {
+            "originalWord": "if",
             "partOfSpeech": "noun",
-            "definition": "Opportunity or scope (to do something).",
-            "word": "zeixyavaaken"
+            "definition": "An uncertainty, possibility, condition, doubt etc.",
+            "word": "hiyken"
         },
-        "white": {
-            "originalWord": "white",
+        "world": {
+            "originalWord": "world",
             "partOfSpeech": "noun",
-            "definition": "The color/colour of snow or milk; the colour of light containing equal amounts of all visible wavelengths.",
-            "word": "isziprken"
-        },
-        "house": {
-            "originalWord": "house",
-            "partOfSpeech": "noun",
-            "definition": "A structure built or serving as an abode of human beings.",
-            "word": "deaken"
-        },
-        "enter": {
-            "originalWord": "enter",
-            "partOfSpeech": "noun",
-            "definition": "The \"Enter\" key on a computer keyboard.",
-            "word": "baiken"
-        },
-        "text": {
-            "originalWord": "text",
-            "partOfSpeech": "noun",
-            "definition": "A writing consisting of multiple glyphs, characters, symbols or sentences.",
-            "word": "woiken"
-        },
-        "asked": {
-            "originalWord": "asked",
-            "partOfSpeech": "verb",
-            "definition": "To request (information, or an answer to a question).",
-            "word": "tyizoojen"
-        },
-        "president": {
-            "originalWord": "president",
-            "partOfSpeech": "noun",
-            "definition": "An act in the past which may be used as an example to help decide the outcome of similar instances in the future.",
-            "word": "huhxyvken"
-        },
-        "a": {
-            "originalWord": "a",
-            "partOfSpeech": "noun",
-            "definition": "The name of the Latin script letter A/a.",
-            "word": "suhken"
-        },
-        "copy": {
-            "originalWord": "copy",
-            "partOfSpeech": "noun",
-            "definition": "The result of copying; an identical duplicate of an original.",
-            "word": "zelken"
-        },
-        "use": {
-            "originalWord": "use",
-            "partOfSpeech": "noun",
-            "definition": "The act of using.",
-            "word": "zeadouken"
-        },
-        "as": {
-            "originalWord": "as",
-            "partOfSpeech": "adverb",
-            "definition": "To such an extent or degree; to the same extent or degree.",
-            "word": "ozljin"
-        },
-        "fundraiser": {
-            "originalWord": "fundraiser",
-            "partOfSpeech": "noun",
-            "definition": "An event undertaken to get money by voluntary contributions for a particular activity, such as equipment for extracurricular sports programs, or to defray laboratory costs (salaries) for research of a cure for a particular disease.",
-            "word": "ulcojpejsken"
-        },
-        "soldiers": {
-            "originalWord": "soldiers",
-            "partOfSpeech": "noun",
-            "definition": "A member of an army, of any rank.",
-            "word": "jalpyprisken"
-        },
-        "see": {
-            "originalWord": "see",
-            "partOfSpeech": "verb",
-            "definition": "(stative) To perceive or detect with the eyes, or as if by sight.",
-            "word": "olzjen"
-        },
-        "below": {
-            "originalWord": "below",
-            "partOfSpeech": "adverb",
-            "definition": "In a lower place.",
-            "word": "lexzyvjin"
-        },
-        "however": {
-            "originalWord": "however",
-            "partOfSpeech": "adverb",
-            "definition": "Nevertheless; yet, still; in spite of (that).",
-            "word": "biipaejin"
-        },
-        "because": {
-            "originalWord": "because",
-            "partOfSpeech": "adverb",
-            "definition": "For the reason (that).",
-            "word": "vajcebwetjin"
+            "definition": "(with \"the\") Human collective existence; existence in general.",
+            "word": "itjewzken"
         },
         "had": {
             "originalWord": "had",
             "partOfSpeech": "verb",
             "definition": "To possess, own.",
-            "word": "moajen"
+            "word": "assjen"
         },
-        "farm": {
-            "originalWord": "farm",
-            "partOfSpeech": "noun",
-            "definition": "A place where agricultural and similar activities take place, especially the growing of crops or the raising of livestock.",
-            "word": "loynyaken"
+        "paused": {
+            "originalWord": "paused",
+            "partOfSpeech": "verb",
+            "definition": "To take a temporary rest, take a break for a short period after an effort.",
+            "word": "onnjen"
         },
-        "that": {
-            "originalWord": "that",
-            "partOfSpeech": "noun",
-            "definition": "Something being indicated that is there; one of those.",
-            "word": "wixken"
-        },
-        "he": {
-            "originalWord": "he",
-            "partOfSpeech": "noun",
-            "definition": "The game of tag, or it, in which the player attempting to catch the others is called \"he\".",
-            "word": "jeddidjyjken"
-        },
-        "some": {
-            "originalWord": "some",
+        "to": {
+            "originalWord": "to",
             "partOfSpeech": "adverb",
-            "definition": "Of a measurement: approximately, roughly.",
-            "word": "dirpyhjin"
+            "definition": "Toward a closed, touching or engaging position.",
+            "word": "vuaciapaejin"
         },
-        "pigs": {
-            "originalWord": "pigs",
-            "partOfSpeech": "noun",
-            "definition": "Any of several intelligent mammalian species of the genus Sus, having cloven hooves, bristles and a nose adapted for digging; especially the domesticated animal Sus scrofa.",
-            "word": "ifxidrken"
+        "breathe": {
+            "originalWord": "breathe",
+            "partOfSpeech": "verb",
+            "definition": "To draw air into (inhale), and expel air from (exhale), the lungs in order to extract oxygen and excrete waste gases.",
+            "word": "iwxjen"
         }
     },
     "newToEnglish": {
-        "web": "web",
-        "lioken": "welcome",
-        "couriebuejin": "to",
-        "ofpednippken": "word",
+        "jaamiymyijin": "the",
+        "deediaken": "sun",
+        "papjen": "dipped",
+        "pyxjehtemjin": "below",
+        "maaken": "horizon",
+        "macfehrytjin": "as",
+        "tiaken": "wind",
+        "rewcojjen": "carried",
+        "yscyzvken": "scent",
+        "juypuelen": "of",
+        "zesken": "pine",
+        "obfken": "through",
+        "cypfecken": "quiet",
+        "zitwuzpixken": "valley",
+        "ripwiznyhken": "a",
+        "rocfittehken": "fox",
+        "otruwsjen": "darted",
+        "vojken": "between",
+        "teiduyken": "trees",
+        "virwybken": "its",
+        "neysouwaiken": "fur",
+        "urcydxjen": "catching",
+        "zesdidkin": "last",
+        "nyuken": "golden",
+        "ybluwfken": "rays",
         "N/A": "Nonsense entered",
-        "avfodjejnken": "free",
-        "ijzafsjen": "on",
-        "tufsarjin": "the",
-        "etfken": "sign",
-        "yndihxypbken": "in",
-        "or": "or",
-        "tivpifsosken": "up",
-        "hyoleeken": "start",
-        "iptoxnozxjen": "using",
-        "vetlincowkin": "right",
-        "vyijyyhoojen": "away",
-        "daifyepoeken": "no",
-        "hysracken": "installation",
-        "jaeryusoeken": "purchase",
-        "yrbadzjen": "required",
-        "f": "f",
-        "parken": "def",
-        "jyojen": "google",
-        "josrixken": "says",
-        "an": "an",
-        "wonhewwivken": "asshole",
-        "tofkin": "ever",
-        "foyjyijin": "since",
-        "coydeyxoajen": "wrote",
-        "zyrcisken": "it",
-        "ocrken": "this",
-        "xyyken": "version",
-        "juxhefjen": "has",
-        "doaluaken": "been",
-        "fuaxaoken": "most",
-        "pawsyckin": "often",
-        "afcjen": "reproduced",
-        "ryijin": "notably",
-        "ywhaflken": "walls",
-        "of": "of",
-        "efrken": "memorial",
-        "bylxusmojjen": "named",
-        "luxtubbiskin": "after",
-        "boexauken": "colonel",
-        "huaken": "bliss",
-        "nicbarhevken": "stepson",
-        "cayken": "historian",
-        "faffyxken": "and",
-        "atwicwudnken": "only",
-        "myycayken": "one",
-        "syasyajen": "signed",
-        "tyalaydoejen": "dated",
-        "bisken": "by",
-        "him": "him",
-        "ellobpken": "today",
-        "dahfetlirken": "display",
-        "adfjen": "at",
-        "zeixyavaaken": "room",
-        "isziprken": "white",
-        "deaken": "house",
-        "baiken": "enter",
-        "woiken": "text",
-        "tyizoojen": "asked",
-        "huhxyvken": "president",
-        "suhken": "a",
-        "zelken": "copy",
-        "zeadouken": "use",
-        "ozljin": "as",
-        "ulcojpejsken": "fundraiser",
-        "jalpyprisken": "soldiers",
-        "olzjen": "see",
-        "lexzyvjin": "below",
-        "biipaejin": "however",
-        "vajcebwetjin": "because",
-        "moajen": "had",
-        "loynyaken": "farm",
-        "wixken": "that",
-        "jeddidjyjken": "he",
-        "dirpyhjin": "some",
-        "ifxidrken": "pigs"
+        "synzutken": "daylight",
+        "cyvkin": "nearby",
+        "niewyiken": "stream",
+        "xaoboijen": "whispered",
+        "hyiken": "over",
+        "duexyitueken": "smooth",
+        "ynfadvymxken": "stones",
+        "fuzjuhjen": "weaving",
+        "fiuken": "way",
+        "fauruiziakin": "toward",
+        "heosiizuaken": "lake",
+        "xelpen": "everything",
+        "fofken": "felt",
+        "yjtyhrken": "calm",
+        "hiyken": "if",
+        "itjewzken": "world",
+        "assjen": "had",
+        "onnjen": "paused",
+        "vuaciapaejin": "to",
+        "iwxjen": "breathe"
     }
 }

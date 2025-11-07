@@ -3,7 +3,11 @@
     "noun": "ken",
     "verb": "jen",
     "adjective": "kin",
-    "adverb": "jin"
+    "adverb": "jin",
+    "pronoun": "pen",
+    "preposition": "len",
+    "conjunction": "sen",
+    "article": "eui"
   },
   "root": [
     "cvc",
