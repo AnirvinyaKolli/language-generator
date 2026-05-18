@@ -376,6 +376,60 @@
             "partOfSpeech": "noun",
             "definition": "Any plant of the family Poaceae, characterized by leaves that arise from nodes in the stem and leaf bases that wrap around the stem, especially those grown as ground cover rather than for grain.",
             "word": "ifzopzoddken"
+        },
+        "food": {
+            "originalWord": "food",
+            "partOfSpeech": "noun",
+            "definition": "Any solid substance that can be consumed by living organisms, especially by eating, in order to sustain life.",
+            "word": "viobeupayken"
+        },
+        "topic": {
+            "originalWord": "topic",
+            "partOfSpeech": "noun",
+            "definition": "Subject; theme; a category or general area of interest.",
+            "word": "doaleanuaken"
+        },
+        "bald": {
+            "originalWord": "bald",
+            "partOfSpeech": "noun",
+            "definition": "A mountain summit or crest that lacks forest growth despite a warm climate conducive to such, as is found in many places in the Southern Appalachian Mountains.",
+            "word": "fetpudpuxken"
+        },
+        "large": {
+            "originalWord": "large",
+            "partOfSpeech": "noun",
+            "definition": "An old musical note, equal to two longas, four breves, or eight semibreves.",
+            "word": "ywfken"
+        },
+        "elephants": {
+            "originalWord": "elephants",
+            "partOfSpeech": "noun",
+            "definition": "A mammal of the order Proboscidea, having a trunk, and two large ivory tusks jutting from the upper jaw.",
+            "word": "uftenvyfbken"
+        },
+        "did": {
+            "originalWord": "did",
+            "partOfSpeech": "verb",
+            "definition": "(auxiliary) A syntactic marker.",
+            "word": "ficbyrjen"
+        },
+        "you": {
+            "originalWord": "you",
+            "partOfSpeech": "verb",
+            "definition": "To address (a person) using the pronoun you (in the past, especially to use you rather than thou, when you was considered more formal).",
+            "word": "heftanjen"
+        },
+        "know": {
+            "originalWord": "know",
+            "partOfSpeech": "noun",
+            "definition": "Knowledge; the state of knowing.",
+            "word": "supwylken"
+        },
+        "despise": {
+            "originalWord": "despise",
+            "partOfSpeech": "verb",
+            "definition": "To regard with contempt or scorn.",
+            "word": "ferjen"
         }
     },
     "newToEnglish": {
@@ -441,6 +495,15 @@
         "nyovouceejin": "am",
         "tuizautiajen": "going",
         "yrzucsken": "finish",
-        "ifzopzoddken": "grass"
+        "ifzopzoddken": "grass",
+        "viobeupayken": "food",
+        "doaleanuaken": "topic",
+        "fetpudpuxken": "bald",
+        "ywfken": "large",
+        "uftenvyfbken": "elephants",
+        "ficbyrjen": "did",
+        "heftanjen": "you",
+        "supwylken": "know",
+        "ferjen": "despise"
     }
 }
